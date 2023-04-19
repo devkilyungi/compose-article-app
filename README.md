@@ -1,5 +1,5 @@
 # compose-article-app
-A basic android kotlin compose article app.
+A basic android kotlin compose article app with a single screen showing an article card.
 
 ## Preview
 <img
